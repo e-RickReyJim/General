@@ -7,7 +7,8 @@ from langchain_huggingface import HuggingFaceEmbeddings
 
 #from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.chains import RetrievalQA
-from langchain_community.llms import HuggingFacePipeline
+#from langchain_community.llms import HuggingFacePipeline
+from langchain_huggingface import HuggingFacePipeline
 from transformers import pipeline
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
