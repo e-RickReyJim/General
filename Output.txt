@@ -1,0 +1,63 @@
+(.venv) PS C:\GIT\General> & C:/GIT/General/.venv/Scripts/python.exe c:/GIT/General/RAG_CAP.py
+Device set to use cpu
+Loaded 271 chunks from Capgemini-CBE_2021_Spanish-v3.2.pdf
+Model max tokens from tokenizer: 512
+Token indices sequence length is longer than the specified maximum sequence length for this model (676 > 512). Running this sequence through the model will result in indexing errors
+Model max tokens from tokenizer: 512
+Model max tokens from tokenizer: 512
+Model max tokens from tokenizer: 512
+Model max tokens from tokenizer: 512
+Saved comparison results to c:\GIT\General\rag_vs_no_rag_results.json
+
+---
+Query: ¿Cómo se llama el documento?
+RAG:
+ Eres un asistente expert en resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible.
+No-RAG:
+ Eres an expert in resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible. Pregunta: Como se llama el documento? Answeresa (sin contexto) 
+
+---
+Query: ¿Qué significa trabajar con nuestros clientes?
+RAG:
+ So we transparentes con nos clientes acerca de la relación que mantenemos con nos socios y ecosistemas. Informamos a nos clientes sobre nuestras relaciones comerciales o las acuerdos de comisiones por derivación que pudiéramos suscribir en relación con los servicios que les ofrecemos. The divulgación debe hacerse por escrito, y puede consistir en una notificación preliminar general dentro de los términos del contrato del cliente.
+No-RAG:
+ Eres an expert asistente en resumir y extraer información técnica de documentosempresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible. Pregunta: Qué significa trabajar con nos clientes? Answeresa (sin contexto)
+
+---
+Query: ¿Cómo se debe manejar la información empresarial y financiera.
+RAG:
+ 3.5 Información empresarial es responsabilidad directa del director financiero (CFO) del Grupo, ya esta través del departamento de control financiero del Grupo o del departamento de relaciones con inversores. No debes divulgar información alguna sobre el desempeo financiero del Grupo sin autorización previa. Sección 3: Integridad empresarial 28 Capgemini. Nuestro Código de Etiqueta Empresarial > When deba responder a preguntas internas o externas sobre asuntos financieros, siempre debo solicitar la aprobación correspondiente. > Debo guardar en lugar seguro los registros confidenciales de la empresa (incluyendo las copias de seguridad). 3.5 Información empresarial y financiera correcta y precisa CON
+No-RAG:
+ Eres an expert in resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible.
+
+---
+Query: ¿Qué significa Tolerancia Cero?
+RAG:
+ > Tolerancia cero. No toleramos forma alguna de acoso o violencia, ni acciones que generen un entorno laboral amenazador; esto incluye toda actitud, forma de comportamiento o situación que pueda considerarse de acoso. Toda infracción de las normas pueda ser castigada con sanciones disciplinarias. QUÉ DEBO HACER?>
+No-RAG:
+ Eres an expert asistente en resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible. Pregunta: Qué significa Tolerancia Cero? Answeresa (sin contexto)
+
+---
+Query: ¿Hay resultados cuantitativos presentados?
+RAG:
+ Ere un asistente expert en resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de f Eres an expert asistente en resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible. Pregunta: Qué significa Tolerancia Cero? Answeresa (sin contexto)
+
+---
+Query: ¿Hay resultados cuantitativos presentados?
+RAG:
+ Eres an expert asistente en resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible. Pregunta: Qué significa Tolerancia Cero? Answeresa (sin contexto)
+
+---
+Query: ¿Hay resultados cuantitativos presentados?
+ Eres an expert asistente en resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible. Pregunta: Qué significa Tolerancia Cero? Answeresa (sin contexto)
+
+ Eres an expert asistente en resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible. Pregunta: Qué significa Tolerancia Cero? Answeresa (sin contexto)
+ Eres an expert asistente en resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible. Pregunta: Qué significa Tolerancia Cero? Answeresa (s Eres an expert asistente en resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de  Eres an expert asistente en resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de  Eres an expert asistente en resumir y extraer información téforma breve, precisa y con referencia al context cuando esté disponible. Pregunta: Qué significa Tolerancia Cero? Answeresa (sin contexto)
+
+---
+Query: ¿Hay resultados cuantitativos presentados?
+RAG:
+ Ere un asistente expert en resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al contexto cuando esté disponible.
+No-RAG:
+ Eres an asistente expert in resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible.
+(.venv) PS C:\GIT\General>

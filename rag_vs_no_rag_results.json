@@ -1,0 +1,27 @@
+[
+  {
+    "query": "¿Cómo se llama el documento?",
+    "rag": "Eres un asistente expert en resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible.",
+    "no_rag": "Eres an expert in resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible. Pregunta: Como se llama el documento? Answeresa (sin contexto)"
+  },
+  {
+    "query": "¿Qué significa trabajar con nuestros clientes?",
+    "rag": "So we transparentes con nos clientes acerca de la relación que mantenemos con nos socios y ecosistemas. Informamos a nos clientes sobre nuestras relaciones comerciales o las acuerdos de comisiones por derivación que pudiéramos suscribir en relación con los servicios que les ofrecemos. The divulgación debe hacerse por escrito, y puede consistir en una notificación preliminar general dentro de los términos del contrato del cliente.",
+    "no_rag": "Eres an expert asistente en resumir y extraer información técnica de documentosempresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible. Pregunta: Qué significa trabajar con nos clientes? Answeresa (sin contexto)"
+  },
+  {
+    "query": "¿Cómo se debe manejar la información empresarial y financiera.",
+    "rag": "3.5 Información empresarial es responsabilidad directa del director financiero (CFO) del Grupo, ya esta través del departamento de control financiero del Grupo o del departamento de relaciones con inversores. No debes divulgar información alguna sobre el desempeo financiero del Grupo sin autorización previa. Sección 3: Integridad empresarial 28 Capgemini. Nuestro Código de Etiqueta Empresarial > When deba responder a preguntas internas o externas sobre asuntos financieros, siempre debo solicitar la aprobación correspondiente. > Debo guardar en lugar seguro los registros confidenciales de la empresa (incluyendo las copias de seguridad). 3.5 Información empresarial y financiera correcta y precisa CON",
+    "no_rag": "Eres an expert in resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible."
+  },
+  {
+    "query": "¿Qué significa Tolerancia Cero?",
+    "rag": "> Tolerancia cero. No toleramos forma alguna de acoso o violencia, ni acciones que generen un entorno laboral amenazador; esto incluye toda actitud, forma de comportamiento o situación que pueda considerarse de acoso. Toda infracción de las normas pueda ser castigada con sanciones disciplinarias. QUÉ DEBO HACER?>",
+    "no_rag": "Eres an expert asistente en resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible. Pregunta: Qué significa Tolerancia Cero? Answeresa (sin contexto)"
+  },
+  {
+    "query": "¿Hay resultados cuantitativos presentados?",
+    "rag": "Ere un asistente expert en resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al contexto cuando esté disponible.",
+    "no_rag": "Eres an asistente expert in resumir y extraer información técnica de documentos empresariales. Responde siempre en espaol de forma breve, precisa y con referencia al context cuando esté disponible."
+  }
+]
